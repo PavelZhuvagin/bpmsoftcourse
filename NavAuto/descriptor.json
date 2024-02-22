@@ -1,0 +1,30 @@
+﻿{
+  "Descriptor": {
+    "UId": "eb545f65-4d56-cc0b-5b12-f337c2331d43",
+    "Name": "NavAuto",
+    "ModifiedOnUtc": "\/Date(1708596359000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3e884542-e958-4f64-b6de-a1b587b3b7e5",
+        "PackageVersion": "7.8.0",
+        "Name": "Opportunity"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      },
+      {
+        "UId": "ca17ff09-8a8b-4af9-8a2a-ff4c0983ba30",
+        "PackageVersion": "7.8.0",
+        "Name": "Project"
+      }
+    ]
+  }
+}
